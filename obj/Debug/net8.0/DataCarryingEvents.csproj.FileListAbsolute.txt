@@ -1,0 +1,14 @@
+C:\Users\Mophat\OneDrive - Teach2Give\Desktop\DataCarryingEvents\bin\Debug\net8.0\DataCarryingEvents.exe
+C:\Users\Mophat\OneDrive - Teach2Give\Desktop\DataCarryingEvents\bin\Debug\net8.0\DataCarryingEvents.deps.json
+C:\Users\Mophat\OneDrive - Teach2Give\Desktop\DataCarryingEvents\bin\Debug\net8.0\DataCarryingEvents.runtimeconfig.json
+C:\Users\Mophat\OneDrive - Teach2Give\Desktop\DataCarryingEvents\bin\Debug\net8.0\DataCarryingEvents.dll
+C:\Users\Mophat\OneDrive - Teach2Give\Desktop\DataCarryingEvents\bin\Debug\net8.0\DataCarryingEvents.pdb
+C:\Users\Mophat\OneDrive - Teach2Give\Desktop\DataCarryingEvents\obj\Debug\net8.0\DataCarryingEvents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mophat\OneDrive - Teach2Give\Desktop\DataCarryingEvents\obj\Debug\net8.0\DataCarryingEvents.AssemblyInfoInputs.cache
+C:\Users\Mophat\OneDrive - Teach2Give\Desktop\DataCarryingEvents\obj\Debug\net8.0\DataCarryingEvents.AssemblyInfo.cs
+C:\Users\Mophat\OneDrive - Teach2Give\Desktop\DataCarryingEvents\obj\Debug\net8.0\DataCarryingEvents.csproj.CoreCompileInputs.cache
+C:\Users\Mophat\OneDrive - Teach2Give\Desktop\DataCarryingEvents\obj\Debug\net8.0\DataCarryingEvents.dll
+C:\Users\Mophat\OneDrive - Teach2Give\Desktop\DataCarryingEvents\obj\Debug\net8.0\refint\DataCarryingEvents.dll
+C:\Users\Mophat\OneDrive - Teach2Give\Desktop\DataCarryingEvents\obj\Debug\net8.0\DataCarryingEvents.pdb
+C:\Users\Mophat\OneDrive - Teach2Give\Desktop\DataCarryingEvents\obj\Debug\net8.0\DataCarryingEvents.genruntimeconfig.cache
+C:\Users\Mophat\OneDrive - Teach2Give\Desktop\DataCarryingEvents\obj\Debug\net8.0\ref\DataCarryingEvents.dll

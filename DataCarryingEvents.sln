@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataCarryingEvents", "DataCarryingEvents.csproj", "{BCFF4968-F158-48B4-B5D2-85A56BA5FCEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCFF4968-F158-48B4-B5D2-85A56BA5FCEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCFF4968-F158-48B4-B5D2-85A56BA5FCEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCFF4968-F158-48B4-B5D2-85A56BA5FCEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCFF4968-F158-48B4-B5D2-85A56BA5FCEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C0A52BF-FE25-4C72-BA8E-BCD667B271B2}
+	EndGlobalSection
+EndGlobal
